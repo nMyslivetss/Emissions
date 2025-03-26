@@ -1,0 +1,6 @@
+@Emissions.FakeBackgroundApi_HostAddress = http://localhost:5070
+
+GET {{Emissions.FakeBackgroundApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

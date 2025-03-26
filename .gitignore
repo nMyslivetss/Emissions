@@ -1,0 +1,48 @@
+## Build results
+bin/
+obj/
+out/
+
+## VS-specific
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+
+## Rider (если используешь JetBrains)
+.idea/
+*.sln.iml
+
+## ASP.NET
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.local.json
+appsettings.*.secrets.json
+appsettings.json
+
+## Logs
+*.log
+*.tlog
+*.log.db
+
+## Backup & DB
+*.bak
+*.dbmdl
+
+## Others
+_ReSharper*/
+*.ncrunch*
+*.DS_Store
+*.orig
+*.sqlite
+*.pdb
+*.cache
+*.tmp
+*.pid
+*.publishsettings
+*.localhistory
+
+## Test results
